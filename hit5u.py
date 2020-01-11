@@ -5,19 +5,12 @@ def banner () :
 
      print("")
      print("                                                       __")
-     print("                              XX")
-     print("_________        ______       ~~     _______         ______      ___.    ___.")
-     print("XXXXXXXXX.     ,gXXXXXX.      XX    ,XXXXXXXs      ,gXXXXXX.     XXXi    XXX")
-     print("XXXXXXXXXX.  ,dXXXXXXXXXs     XX   iXXXXXXXXXi    iXXXXXXXXXX_   XXXb    XXX")
-     print("XXX~~~XXXXX  XXXXX~ ~~XXXX.   XX  XXXX~   XXXX   iXXXX~`'~XXXXi  XXXXs   XXX")
-     print("XXX    dXXX  XXX       XXXX   XX  XXXXXs_  '~~   XXX`      XXXX  XXXXXb !XXX")
-     print("XXX___XXXXX iXXX!       XXX   XX   XXXXXXXXXs   iXXX        XXX  XXX XXi XXX")
-     print("XXXXXXXXXX`  XXX.       XXX   XX    ~XXXXXXXXX   XXX        XXX  XXX'XXXx)XX")
-     print("XXX          XXXb     gXXX!   XX  XXXX      XXX  XXXb     gXXX   XXX  'XXXXX")
-     print("XXX          XXXXXXXXXXXXf    XX  ~XXXXX_gXXXX!  'XXXXXXXXXXXX`  XXX   !XXXX")
-     print("XXX           ~XXXXXXXXX`     XX    XXXXXXXXX~    'XXXXXXXXX`    XXX    XXXX")
-     print("~~~              ~~X~~`      '~~`     XXXXX~         ~~X~~`      ~~~    '~~~`")
-     print("                   ~                  ~~~~~            ~")
+     print(" _   _   _   _____   _       _____   _____         _   _       ___   _____   _   _ ")       
+     print("| | | | | | |_   _| | |     | ____| |  _  \       | | | |     /   | /  ___| | | / /")      
+     print("| |_| | | |   | |   | |     | |__   | |_| |       | |_| |    / /| | | |     | |/ /")     
+     print("|  _  | | |   | |   | |     |  __|  |  _  /       |  _  |   / / | | | |     | |\ \")       
+     print("| | | | | |   | |   | |___  | |___  | | \ \       | | | |  / /  | | | |___  | | \ \")       
+     print("|_| |_| |_|   |_|   |_____| |_____| |_|  \_\      |_| |_| /_/   |_| \_____| |_|  \_\")     
 b = "\033[0;91m" #RED 
 f = "\033[1;92m" #GREEN
 c = "\033[1;96m"  #لبني فاتح
@@ -27,6 +20,7 @@ print(f+"           ●●●●●●●●●●●●●●●●●●●●
 print(f+"           ●WELCOME TO MY WORLED●       ")
 print(f+"           ●●●●●●●●●●●●●●●●●●●●●●       ")
 print("")
+banner ()
 print("☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬")
 print("")
 print(v+"       ♡《《《WELCOME TO MY TOOL》》》♡          ")
