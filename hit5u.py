@@ -15,12 +15,13 @@ f = "\033[1;92m" #GREEN
 c = "\033[1;96m"  #لبني فاتح
 l = "\033[1;94m" #موف
 v = "\033[0;101m" #تضليل احمر
-print(f+"           ●●●●●●●●●●●●●●●●●●●●●●       ")
-print(f+"           ●WELCOME TO MY WORLED●       ")
-print(f+"           ●●●●●●●●●●●●●●●●●●●●●●       ")
+print(f+"                  ●●●●●●●●●●●●●●●●●●●●●●       ")
+print(f+"                  ●WELCOME TO MY WORLED●       ")
+print(f+"                  ●●●●●●●●●●●●●●●●●●●●●●       ")
 print("")
 banner ()
-print("☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬")
+print("")
+print("☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬")
 print("")
 print(v+"       ♡《《《WELCOME TO MY TOOL》》》♡          ")
 print(b+"THIS TOOL WAS BEEN PROGRAMED bY H⃟I⃟T⃟L⃟E⃟R⃟ H⃟A⃟C⃟K⃟ & MENA MAGDY")
